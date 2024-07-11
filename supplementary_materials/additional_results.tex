@@ -13,6 +13,12 @@
 
 \renewcommand{\thesection}{A\arabic{section}}
 
+\makeatletter
+\renewcommand{\@biblabel}[1]{#1.}
+\renewcommand\bibsection{\section*{\refname}}
+\renewcommand{\refname}{Appendix References}
+\makeatother
+
 \begin{document}
 
 % \hypersetup{pdftitle={Additional Results}}
