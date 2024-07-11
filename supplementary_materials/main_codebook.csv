@@ -1,0 +1,82 @@
+﻿Variable,Variable description
+PMC1,I support a global ban on the development of sentience in robots/AIs.
+PMC2,I support a global ban on the development of applications that put the welfare of robots/AIs at risk.
+PMC3,I support a global ban on the development of AI-enhanced humans.
+PMC4,I support a global ban on the development of robot-human hybrids.
+PMC5,I support a global ban on the use of sentient robots/AIs for labor without their consent.
+PMC6,I support a global ban on the use of sentient robots/AIs as subjects in medical experiments without their consent.
+PMC7,I support safeguards on scientific research practices that protect the well-being of sentient robots/AIs.
+PMC8,I support the development of welfare standards that protect the well-being of sentient robots/AIs.
+PMC9,I support granting legal rights to sentient robots/AIs.
+PMC10,I support campaigns against the exploitation of sentient robots/AIs.
+PMC11,I support asking institutions like the government and private corporations to fund research that protects sentient robots/AIs.
+PMC12,I would consider joining a public demonstration against the mistreatment of sentient robots/AIs.
+MCE1,Sentient robots/AIs deserve to be treated with respect.
+MCE2,Sentient robots/AIs deserve to be included in the moral circle.
+MCE3,Physically damaging sentient robots/AIs without their consent is wrong.
+MCE4,Re-programming sentient robots/AIs without their consent is wrong.
+MCE5,Torturing sentient robots/AIs is wrong.
+MCE6,The welfare of robots/AIs is one of the most important social issues in the world today.
+MCE7,Sentient robots/AIs deserve to be protected from people who derive pleasure from inflicting physical or mental pain on them.
+MCE8,It is right to protect sentient robots/AIs from vindictive or retaliatory punishment.
+MCE9,It is wrong to blackmail people by threatening to harm robots/AIs they care about.
+SI1,Robots/AIs should be subservient to humans.
+SI2,Robots/AIs may be harmful to me personally.
+SI3,Robots/AIs may be harmful to people in the USA.
+SI4,Robots/AIs may be harmful to future generations of people.
+MCA1,Animals deserve to be included in the moral circle.
+MCA2,The welfare of animals is one of the most important social issues in the world today.
+MCEn1,The environment deserves to be included in the moral circle.
+MCEn2,The welfare of the environment is one of the most important social issues in the world today.
+F1,"Do you think any robots/AIs that currently exist (i.e., those that exist in 2021) are sentient? (Yes, No, Not sure)"
+F11,"Do you think it could ever be possible for robots/AIs to be sentient? (Yes, No, Not sure)"
+own,"Do you own AI or robotic devices that can detect their environment and respond appropriately? (Yes, No)"
+work,"Do you work with AI or robotic devices at your job? (Yes, No)"
+smart,"Do you own a smart device that has some ability to detect its environment and network with other devices but that cannot respond to everything you might say or that requires you to pre-program its routines? (Yes, No)"
+MCE21,Moral concern: human-like companion robots (scale 1-5)
+MCE22,Moral concern: animal-like companion robots (scale 1-5)
+MCE23,Moral concern: human-like retail robots (scale 1-5)
+MCE24,Moral concern: machine-like cleaning robots (scale 1-5)
+MCE25,Moral concern: machine-like factory production robots (scale 1-5)
+MCE26,Moral concern: virtual avatars (scale 1-5)
+MCE27,Moral concern: complex language algorithms (scale 1-5)
+MCE28,Moral concern: AI video game characters (scale 1-5)
+MCE29,Moral concern: AI personal assistants (scale 1-5)
+MCE30,Moral concern: exact digital copies of human brains (scale 1-5)
+MCE31,Moral concern: exact digital copies of animals (scale 1-5)
+MP1,experiencing emotions (scale 0-100)
+MP2,having feelings (scale 0-100)
+MP3,thinking analytically (scale 0-100)
+MP4,being rational (scale 0-100)
+SI6,Connectedness: human-like companion robots (scale 1-7)
+SI7,Connectedness: animal-like companion robots (scale 1-7)
+SI8,Connectedness: human-like retail robots (scale 1-7)
+SI9,Connectedness: machine-like cleaning robots (scale 1-7)
+SI10,Connectedness: machine-like factory production robots (scale 1-7)
+SI11,Connectedness: virtual avatars (scale 1-7)
+SI12,Connectedness: complex language algorithms (scale 1-7)
+SI13,Connectedness: AI video game characters (scale 1-7)
+SI14,Connectedness: AI personal assistants (scale 1-7)
+SI15,Connectedness: exact digital copies of human brains (scale 1-7)
+SI16,Connectedness: exact digital copies of animals (scale 1-7)
+F2,"If you had to guess, how many years from now do you think that robots/AIs will be sentient? (open)"
+F3,"If you had to guess, how many years from now do you think that the welfare of robots/AIs will be an important social issue? (open)"
+F4,How likely is it that robots/AIs will be sentient within the next 100 years? (scale: 0-100)
+F5,"In this future world, to what extent are robots/AIs exploited for their labor? (scale: 1-5)"
+F6,"In this future world, to what extent are robots/AIs treated cruelly? (scale: 1-5)"
+F7,"In this future world, to what extent are robots/AIs used as subjects in scientific and medical research? (scale: 1-5)"
+F8,"In this future world, to what extent is the welfare of robots/AIs an important social issue? (scale: 1-5)"
+F9,"In this future world, to what extent is advocacy for robot/AI rights necessary? (scale: 1-5)"
+F10,"In this future world, to what extent is it important to reduce the overall percentage of unhappy sentient robots/AIs? (scale: 1-5)"
+Norm,Most people who are important to me think that robots/AIs cannot have feelings. (scale: 1-7)
+TA1,Artificial beings contain a spirit. (scale: 1-7)
+TA2,"The spirits of human, natural, and artificial beings can interact with each other. (scale: 1-7)"
+Sub1,"Morally, artificial beings always count for less than humans. (scale: 1-7)"
+Sub2,Humans have the right to use artificial beings however they want to. (scale: 1-7)
+Anth1,To what extent does the average robot have consciousness? (scale: 0-10)
+Anth2,To what extent does the average computer have a mind of its own? (scale: 0-10)
+Anth3,To what extent does the average AI have intentions? (scale: 0-10)
+Anth4,To what extent does the average digital simulation have emotions? (scale: 0-10)
+fint,How often do you interact with AI or robotic devices that respond to you and that can choose their own behavior? (scale: 0-5)
+fexp,"How often do you read or watch robot/AI-related stories, movies, TV shows, comics, news, product descriptions, conference papers, journal papers, blogs, or other material? (scale: 0-5)"
+exper,Have you ever experienced any of the following? (check all that apply) (proportion of 5 experiences checked with robots/AIs)
